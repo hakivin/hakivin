@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at Refactory.id as a Software Engineer
+- 📫 How to reach me: @hakivin in every platform!
 <!--
 **hakivin/hakivin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
