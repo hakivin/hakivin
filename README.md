@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working at Refactory.id as a Software Engineer
 - 📫 How to reach me: @hakivin in every platform!
+
+<img src="https://github-readme-stats.vercel.app/api?username=hakivin&show_icons=true&theme=gotham" alt="hakivin" />
 <!--
 **hakivin/hakivin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
