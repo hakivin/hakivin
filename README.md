@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a Software Engineer focused on Mobile Development
+- 🔭 I’m currently working at Bukalapak as a Software Engineer
 - 📫 How to reach me: @hakivin in every platform!
 
 <img src="https://github-readme-stats.vercel.app/api?username=hakivin&show_icons=true&theme=gotham&count_private=true" alt="hakivin" />
